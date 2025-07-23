@@ -43,7 +43,7 @@ function Footer() {
               <ul className="text-gray-500 dark:text-gray-400 font-medium">
                 <li className="mb-4">
                   <a
-                    href="https://github.com/Illuminati9/"
+                    href="https://github.com/beginner3a4"
                     className="hover:underline "
                   >
                     Github
